@@ -31,12 +31,6 @@ function App() {
                             >
                                 Posts
                             </Link>
-                            <Link
-                                to="/about"
-                                className="text-gray-300 hover:text-teal-400 transition-colors duration-200"
-                            >
-                                About
-                            </Link>
                         </div>
                     </div>
                 </nav>
